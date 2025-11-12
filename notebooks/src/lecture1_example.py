@@ -9,6 +9,8 @@ pi = 3.14          # storing a number
 age = 18           # storing an integer
 is_happy = True    # boolean variable
 
+#this just prints inthe terminal
+
 print("pi:", pi)
 print("age:", age)
 print("is_happy:", is_happy)
@@ -29,6 +31,7 @@ print("Sum:", sum_ab)
 print("Product:", product_ab)
 print("Division:", division_ab)
 
+#using while loops which is really easy to learn but is used in top notch work
 # Simple algorithm: guessing square roots
 number = 16
 guess = number / 2  # initial guess
