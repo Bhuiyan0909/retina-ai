@@ -1,3 +1,6 @@
+What I Learned from MIT OCW Python Course (Fall 2022)
+
+
 # Lecture 1: What I Learned About Knowledge and Programming...
 
 ## Two Types of Knowledge
